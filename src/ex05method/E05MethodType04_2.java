@@ -6,7 +6,7 @@ import java.util.Scanner;
 //단, 숫자의 갯수는 매개변수로 전달받고 숫자의 갯수만큼 Scanner클래스를 통해 입력받는다.
 //입력받은 숫자중 최대값을 찾아서 반환하도록 정의한다.
 
-public class E05methodType04_2 {
+public class E05MethodType04_2 {
 
 	public static void main(String[] args) {
 		int maxValue1 = returnMaxNumber(4);
