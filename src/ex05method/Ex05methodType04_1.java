@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //메서드형식4] 매개변수도 있고 반환값도 있는 형식으로 4가지 형식중에 가장 많이 사용된다.
 
-public class ex05methodType04_1 {
+public class Ex05methodType04_1 {
 
 	public static void main(String[] args) {
 //	시나리오] 인원 수를 매개변수로 전달받아 인원 수 만큼 나이를 입력받아 그 나이의 합을 반환하는 메소드를 작성하시오.

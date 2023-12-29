@@ -13,7 +13,7 @@ import java.util.Scanner;
 메서드명 : inputGugudan(int sNum, int eNum)
  */
 
-public class ex05methodType03_2 {
+public class Ex05methodType03_2 {
 //	while문으로 작성한 메서드
 	static void inputGugudan1(int sNum, int eNum) {
 		int dan = sNum; 
